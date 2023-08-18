@@ -1,0 +1,17 @@
+/*自定义字体*/
+
+@font-face {
+    font-family: Input Sans;
+    src: url('/fonts/InputMono-Regular.ttf');
+}
+
+html {
+    font-family: Input Sans;
+}
+
+
+/* Increase the default font size */
+html {
+    font-size: 12pt;
+  }
+  
