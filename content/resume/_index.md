@@ -89,9 +89,9 @@ This is the result of a hackathon, where three other 3 team members and I built 
 This is a set of **illustrator** logos for ios apps, including iTunes, iPad, and iPhone.
 
 {{< gallery >}}
-  <img src="gallery/512px-itunes-icon.png" class="grid-w66" />
-  <img src="gallery/144px-ipad-icon.png" class="grid-w33" />
-  <img src="gallery/57px-iphone-icon.png" class="grid-w33" />
+  <img src="gallery/512px-itunes-icon.png" class="grid-w40" />
+  <img src="gallery/144px-ipad-icon.png" class="grid-w22" />
+  <img src="gallery/57px-iphone-icon.png" class="grid-w14" />
 {{< /gallery >}}
 
 
