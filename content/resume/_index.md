@@ -46,17 +46,6 @@ summary: "Here is my resume"
 
 ### Project Experience
 
-#### Hackathon
-
-2023.06	Algonquin College
-
-create a site to share pitch ideas
-
-- Built and led team of 4 people to complete product design with mind-notes, wireframes, Figma, UML, and ERD. The product is a website for ideaters to upload video pitches and share with community/audience, especially future investors.
-- Designed product structure and functions based on customer demand analysis, with a website map of 8 web pages. Core function including homepage browsing, event organizing, searching, posting, joining team, showcase, pitch managing, and user profile managing.
-- Created multiple user interactions with impressive and unique UX/UI to serve for 4 essential aspect of monetization: community events, crowdfunding, team building, storytelling.
-- Presented product pitch within 10 minutes with professional language and fun engaging style, and got 1st prize with $1000 award.
-
  
 
 ## Who am i 
@@ -73,17 +62,39 @@ create a site to share pitch ideas
 
 #### [Foodie](https://www.figma.com/file/8XLT012kk3b72NmlQ7FMc7/Foodie!?type=design&node-id=243%3A499&mode=design&t=3Z8MUCBdiLmP4kay-1)     08/2023
 
+`Algonquin College`
+
 This is a takeaway website design demo built with **Figma**, which is also a final assignment. Through the three stages of specialized process of Wireframes, Visual Design, and Interactive Visual Protot, we successfully realized our takeaway website design vision.
 
-#### [pitch jams](https://www.figma.com/file/8mCtOuMuFG8mh82IaZElK2/Pitch-Jams?type=design&node-id=0%3A1&mode=design&t=pXRyjQa4oyH910tc-1)     05/2023
+
+
+#### [pitch jams](https://www.figma.com/file/8mCtOuMuFG8mh82IaZElK2/Pitch-Jams?type=design&node-id=0%3A1&mode=design&t=pXRyjQa4oyH910tc-1)     06/2023
+
+`Algonquin College`
 
 This is the result of a hackathon, where three other 3 team members and I built a demo of an "idea sharing and crowdfunding platform" from 0 to 1 using **Figma**.
+
+- Built and led team of 4 people to complete product design with mind-notes, wireframes, Figma, UML, and ERD. The product is a website for ideaters to upload video pitches and share with community/audience, especially future investors.
+
+- Designed product structure and functions based on customer demand analysis, with a website map of 8 web pages. Core function including homepage browsing, event organizing, searching, posting, joining team, showcase, pitch managing, and user profile managing.
+
+- Created multiple user interactions with impressive and unique UX/UI to serve for 4 essential aspect of monetization: community events, crowdfunding, team building, storytelling.
+
+- Presented product pitch within 10 minutes with professional language and fun engaging style, and got 1st prize with $1000 award.
+
+  
 
 #### Shiba Inu Samurai     05/2023
 
 This is a set of **illustrator** logos for ios apps, including iTunes, iPad, and iPhone.
 
-<img src="/Users/leonlin/Library/Application Support/typora-user-images/image-20230815153905584.png" alt="image-20230815153905584" style="zoom:20%;" />
+{{< gallery >}}
+  <img src="gallery/512px-itunes-icon.png" class="grid-w66" />
+  <img src="gallery/144px-ipad-icon.png" class="grid-w33" />
+  <img src="gallery/57px-iphone-icon.png" class="grid-w33" />
+{{< /gallery >}}
+
+
 
 #### [Flow Mastery(Figma Design Preview)](https://www.figma.com/file/uik2hAOX8okeGLnXrF62zj/FlowMastery?type=design&node-id=0%3A1&mode=design&t=pGpbO9NW0ra1nEdW-1)     03/2023
 
@@ -91,7 +102,7 @@ This is a set of **illustrator** logos for ios apps, including iTunes, iPad, and
 
 This is a learning tool website built with **HMTL, CSS, and JavaScript**, the main body of the website is a timer based on the tomato method, with a login function, calculator, notepad, and to-do list function.
 
-I was responsible for creating the design of the entire website utilizing Figma including the logo, design style and page layout, and all other visual elements.  Although the layout was not fully realized due to time constraints, it was still a great team effort.
+I was responsible for creating the entire website's design utilizing Figma including the logo, design style and page layout, and all other visual elements.  Although the layout was not fully realized due to time constraints, it was still a great team effort.
 
 #### [Tateyama Kendo Club]([https://tateyama-kendo-club.netlify.app](https://tateyama-kendo-club.netlify.app/))    02/2023
 

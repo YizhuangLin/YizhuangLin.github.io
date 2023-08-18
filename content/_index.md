@@ -3,9 +3,9 @@ title: "123"
 date: 2011/1/1
 draft: false
 ---
-### Who am i? ###     
+Who am i?
 {{< typeit 
-  tag=h3
+  tag=p
   speed=100
   lifeLike=true
   breakLines=false
