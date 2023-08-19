@@ -14,7 +14,7 @@ Who am i?
 
 ## Profile
 
-| Address  | 33 St Helen's Pl, Nepean, ON K2G 1H7                         |
+| Address  |Ottawa, Canda                         |
 | -------- | ------------------------------------------------------------ |
 | Tel      | 343-596-6688                                                 |
 | E-mail   | [leon_lin@cestduleon.dev](mailto:leon_lin@cestduleon.dev)    |
