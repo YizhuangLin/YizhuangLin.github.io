@@ -10,7 +10,7 @@ title = "cestduLeon/"
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "Leon's personal website"
   copyright = "Houston, we have a problem."
 
  [author]
