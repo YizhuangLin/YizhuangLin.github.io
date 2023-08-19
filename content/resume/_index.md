@@ -6,7 +6,11 @@ tags:
 - resume
 summary: "Here is my resume"
 ---
-# 
+{{< lead >}}
+
+Who am i?
+
+{{< /lead >}}
 
 ## Profile
 
@@ -17,7 +21,14 @@ summary: "Here is my resume"
 | Linkedin | [www.linkedin.com/in/yizhuang-lin-299253278](http://www.linkedin.com/in/yizhuang-lin-299253278) |
 | Github   | https://github.com/YizhuangLin                               |
 | Website  | [https://cestduleon.dev](https://cestduleon.dev/)            |
-| About Me | `Former Account Manager` `React Lover` `Web Developer` `UI/UX` `Kendo` |
+
+## Skills
+
+- UI Design: **Figma**, **Illustrator**, **Photoshop**
+- Front-end: `HTML`, `CSS`, `JavaScript`, `React`,`` .NET (C#)``, `PHP`, `Hugo`, `bootstrap`
+- Back-end: `Git`, `GitHub`,`Python`, `MySQL`, `Linux Deployment`, `Docker`
+- **Team-based project implementation**
+- Office Skills: Microsoft Office Suite (Word, PowerPoint, and Excel)
 
 ## Education
 
@@ -25,40 +36,65 @@ summary: "Here is my resume"
 
 2013 - 2017	Exhibition Planning and Management    Shanghai Lida University, Shanghai, China
 
-## Skills
 
-- Proficient in web development using HTML, CSS, JavaScript
-- responsive design principles.
-- Experienced in programming languages such as C#, PHP, and Python.
-- Skilled in database management with MySQL and SQL Server.
-- Collaboration and Teamwork
 
-## Experience
+## Life Map
 
-### Work Experience
+{{< timeline >}}
 
-| Time              | Company                                       | Position               | Base            |
-| ----------------- | --------------------------------------------- | ---------------------- | --------------- |
-| 2021.11 - 2022.11 | Shanghai chengyun Co.                         | Senior Account Manager | Shanghai, China |
-| 2020.11 - 2021.11 | Aisuperstar Network Technology (Shanghai) Co. | Account Manager        | Shanghai, China |
-| 2018.06 - 2020.11 | Inshine Culture Communication Co.             | Account Executive      | Shanghai, China |
-| 2016.11 - 2018.03 | Kin-king advertising (shanghai) co.           | Account Assistant      | Shanghai, China |
 
-### Project Experience
+
+{{< timelineItem icon="graduation-cap" header="Algonquin College" badge="Ottawa, Canada" subheader="Major: Web Development and Internet Applications" >}}
+
+2023.01 - Now 
+
+{{< /timelineItem >}}
+
+
+
+{{< timelineItem icon="sun" header="Shanghai Chengyun Culture Communication Co.,Ltd" badge="Shanghai, China" subheader="Position: Senior Account Manager" >}}
+
+2021.11 - 2022.11
+
+{{< /timelineItem >}}
+
+
+
+{{< timelineItem icon="sun" header="Aisuperstar Network Technology (Shanghai) Co.,Ltd" badge="Shanghai, China" subheader="Position: Account Manager" >}}
+
+2020.11 - 2021.11
+
+{{< /timelineItem >}}
+
+
+
+{{< timelineItem icon="sun" header="Inshine Culture Communication Co.,Ltd" badge="Shanghai, China" subheader="Position: Account Assistant" >}}
+
+2018.06 - 2020.11
+
+{{< /timelineItem >}}
+
+
+
+{{< timelineItem icon="sun" header="Kin-king advertising (shanghai) co.,Ltd" badge="Shanghai, China" subheader="Position: Account Executive" >}}
+
+2016.11 - 2018.03
+
+{{< /timelineItem >}}
+
+
+
+{{< timelineItem icon="graduation-cap" header=" Shanghai Lida University" badge="Ottawa, Canada" subheader="Major: Exhibition Planning and Management" >}}
+
+2023.09 - 2017.07
+
+{{< /timelineItem >}}
+
+{{< /timeline >}}
 
  
 
-## Who am i 
-
-- ~~24601~~
-
-- Focus on code readability/coupling
-- Passion for technology and code
-- Familiar with teamwork
-- React, Mysql, typescript enthusiasts.
-- Kendo 1Dun, Still in love with it.
-
-## personal work
+## Portfolio
 
 #### [Foodie](https://www.figma.com/file/8XLT012kk3b72NmlQ7FMc7/Foodie!?type=design&node-id=243%3A499&mode=design&t=3Z8MUCBdiLmP4kay-1)     08/2023
 
@@ -107,3 +143,15 @@ I was responsible for creating the entire website's design utilizing Figma inclu
 #### [Tateyama Kendo Club]([https://tateyama-kendo-club.netlify.app](https://tateyama-kendo-club.netlify.app/))    02/2023
 
 This is a beginner static presentation website made in **HTML and CSS**, a non-official website of a Kendo club.
+
+
+
+## Who am I?
+
+- ~~24601~~
+
+- Focus on code readability/coupling
+- Passion for technology and code
+- Familiar with teamwork
+- React, Mysql, typescript enthusiasts.
+- Kendo 1Dun, Still in love with it.
