@@ -44,7 +44,7 @@ Who am i?
 
 
 
-{{< timelineItem icon="graduation-cap" header="Algonquin College" badge="Ottawa, Canada" subheader="Major: Web Development and Internet Applications" >}}
+{{< timelineItem icon="graduation-cap" header="Major: Web Development and Internet Applications" badge="Ottawa, Canada" subheader="🏫 Algonquin College" >}}
 
 2023.01 - Now 
 
@@ -52,15 +52,14 @@ Who am i?
 
 
 
-{{< timelineItem icon="sun" header="Shanghai Chengyun Culture Communication Co.,Ltd" badge="Shanghai, China" subheader="Position: Senior Account Manager" >}}
+{{< timelineItem icon="sun" header="Position: Senior Account Manager" badge="Shanghai, China" subheader="💼 Shanghai Chengyun Culture Communication Co.,Ltd" >}}
 
 2021.11 - 2022.11
 
 {{< /timelineItem >}}
 
 
-
-{{< timelineItem icon="sun" header="Aisuperstar Network Technology (Shanghai) Co.,Ltd" badge="Shanghai, China" subheader="Position: Account Manager" >}}
+{{< timelineItem icon="sun" header="Position: Account Manager" badge="Shanghai, China" subheader="💼 Aisuperstar Network Technology (Shanghai) Co.,Ltd" >}}
 
 2020.11 - 2021.11
 
@@ -68,7 +67,7 @@ Who am i?
 
 
 
-{{< timelineItem icon="sun" header="Inshine Culture Communication Co.,Ltd" badge="Shanghai, China" subheader="Position: Account Assistant" >}}
+{{< timelineItem icon="sun" header="Position: Account Assistant" badge="Shanghai, China" subheader="💼 Inshine Culture Communication Co.,Ltd" >}}
 
 2018.06 - 2020.11
 
@@ -76,7 +75,7 @@ Who am i?
 
 
 
-{{< timelineItem icon="sun" header="Kin-king advertising (shanghai) co.,Ltd" badge="Shanghai, China" subheader="Position: Account Executive" >}}
+{{< timelineItem icon="sun" header="Position: Account Executive" badge="Shanghai, China" subheader="💼 Kin-king advertising (shanghai) co.,Ltd" >}}
 
 2016.11 - 2018.03
 
@@ -84,9 +83,9 @@ Who am i?
 
 
 
-{{< timelineItem icon="graduation-cap" header=" Shanghai Lida University" badge="Ottawa, Canada" subheader="Major: Exhibition Planning and Management" >}}
+{{< timelineItem icon="graduation-cap" header=" Major: Exhibition Planning and Management" badge="Shanghai, China" subheader="🏫 Shanghai Lida University" >}}
 
-2023.09 - 2017.07
+2013.09 - 2017.07
 
 {{< /timelineItem >}}
 
