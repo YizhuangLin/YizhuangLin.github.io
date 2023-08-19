@@ -1,4 +1,5 @@
 /*自定义字体*/
+/* Increase the default font size */
 
 html {
     font-size: 12pt;
@@ -12,7 +13,7 @@ html {
 
 html {
     font-family: NotoSansMono-Regular;
-} */
+}  */
 
 
 /* @font-face {
@@ -25,13 +26,11 @@ html {
 } */
 
 
-/* @font-face {
+ /* @font-face {
     font-family: JetBrainsMono;
     src: url('/fonts/JetBrainsMono-Regular.ttf');
-}
+} 
 
-html {
+.typeit {
     font-family: JetBrainsMono;
 } */
-
-/* Increase the default font size */
