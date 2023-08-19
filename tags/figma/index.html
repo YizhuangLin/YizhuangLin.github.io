@@ -30,8 +30,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.751898b61c80c51fbb54bd6cb5a81c5f2b3828c401e3f8ab031db093673618fb0d19d7b644d4e81986a24c61946c25194f871a4bca3a3e90335d9f53cccaea30.css"
-    integrity="sha512-dRiYthyAxR&#43;7VL1stagcXys4KMQB4/irAx2wk2c2GPsNGde2RNToGYaiTGGUbCUZT4caS8o6PpAzXZ9TzMrqMA==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.f82852588319eb04dd27a6da67861322f6807998bcdd731f854165266f1f1d35230e7aab9a68c475724549631288fdf371bf433dfd3f2ab7b351a305d7bd80e3.css"
+    integrity="sha512-&#43;ChSWIMZ6wTdJ6baZ4YTIvaAeZi83XMfhUFlJm8fHTUjDnqrmmjEdXJFSWMSiP3zcb9DPf0/KrezUaMF172A4w==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -84,9 +84,6 @@
   
   
   <link href="bonjour@cestduleon.dev" rel="me" />
-  
-  
-  <link href="https://cestduleon.dev/" rel="me" />
   
   
   <link href="https://github.com/YizhuangLin" rel="me" />
@@ -416,6 +413,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -572,9 +579,7 @@
 
 
 
-
-
-<a class="flex flex-wrap article  max-w-prose" href="https://www.figma.com/file/8XLT012kk3b72NmlQ7FMc7/Foodie!?type=design&amp;node-id=243%3A499&amp;mode=design&amp;t=ewgOFutCZ1JUXRwx-1" target="_blank" rel="external">
+<a class="flex flex-wrap article " href="https://www.figma.com/file/8XLT012kk3b72NmlQ7FMc7/Foodie!?type=design&amp;node-id=243%3A499&amp;mode=design&amp;t=ewgOFutCZ1JUXRwx-1" target="_blank" rel="external">
   
         
         <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/portfolio/foodie/featured-foodie-puzzle_hu5569d12b785719b4760cf5b8bcde64ba_54038_600x0_resize_box_3.png);"></div>
