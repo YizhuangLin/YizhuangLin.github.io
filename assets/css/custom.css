@@ -1,17 +1,37 @@
 /*自定义字体*/
 
-@font-face {
-    font-family: Input Sans;
-    src: url('/fonts/InputMono-Regular.ttf');
-}
-
-html {
-    font-family: Input Sans;
-}
-
-
-/* Increase the default font size */
 html {
     font-size: 12pt;
   }
   
+
+/* @font-face {
+    font-family: NotoSansMono-Regular;
+    src: url('/fonts/NotoSansMono-Regular');
+}
+
+html {
+    font-family: NotoSansMono-Regular;
+} */
+
+
+/* @font-face {
+    font-family: Input Sans;
+    src: url('/fonts/InputMono-Regular.ttf');
+} */
+/* 
+html {
+    font-family: Input Sans;
+} */
+
+
+/* @font-face {
+    font-family: JetBrainsMono;
+    src: url('/fonts/JetBrainsMono-Regular.ttf');
+}
+
+html {
+    font-family: JetBrainsMono;
+} */
+
+/* Increase the default font size */
