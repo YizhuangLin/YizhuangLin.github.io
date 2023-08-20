@@ -6,31 +6,31 @@ html {
   }
   
 
-/* @font-face {
+ @font-face {
     font-family: NotoSansMono-Regular;
     src: url('/fonts/NotoSansMono-Regular');
 }
 
-html {
+/* html {
     font-family: NotoSansMono-Regular;
-}  */
+}  */ 
 
 
-/* @font-face {
+@font-face {
     font-family: Input Sans;
     src: url('/fonts/InputMono-Regular.ttf');
-} */
+} 
 /* 
 html {
     font-family: Input Sans;
 } */
 
 
- /* @font-face {
+  @font-face {
     font-family: JetBrainsMono;
     src: url('/fonts/JetBrainsMono-Regular.ttf');
 } 
 
-.typeit {
+/* .typeit {
     font-family: JetBrainsMono;
-} */
+}  */
