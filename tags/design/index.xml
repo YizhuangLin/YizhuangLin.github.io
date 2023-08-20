@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on cestduLeon/</title>
+    <link>/tags/design/</link>
+    <description>Recent content in Design on cestduLeon/</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Houston, we have a problem.</copyright>
+    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design - Foodie, a food delivery app</title>
+      <link>/portfolio/foodie/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/foodie/</guid>
+      <description>Foodie makes your food ordering process enjoyable. Don&amp;rsquo;t know what to eat? Come and get a hint from our community curated recommendations and food matches!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/portfolio/foodie/featured-foodie-puzzle.png" />
+    </item>
+    
+  </channel>
+</rss>
