@@ -50,6 +50,3 @@ Using rounded edges on buttons and cards, along with matching color themes, make
 Group assignment by <u>[Jerome](https://hitori.rocks/)</u>, Thomas and me.
 
 
-
-(alphabetical order)
-
