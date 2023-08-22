@@ -49,6 +49,6 @@ Using rounded edges on buttons and cards, along with matching color themes, make
 
 ---
 
-Group assignment by <u>[Jerome](https://hitori.rocks/)</u>, Thomas and me.
+Group assignment by <u>[Jerome](https://hitori.rocks/)</u>, <u>[Thomas](https://www.linkedin.com/in/thomas-castillo-a13b67220/)</u> and me.
 
 
