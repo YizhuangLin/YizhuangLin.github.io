@@ -9,7 +9,7 @@ tags:
 ---
 ![Foodie!](foodie-Logo.png)
 
-## Summarize
+## Summary
 
 Foodie is a takeaway app with a more dynamic design. Not only does it have a wide variety of food choices like other takeaway sites, but more importantly, it gives you suggestions on what you want to eat from the wide selection.
 
