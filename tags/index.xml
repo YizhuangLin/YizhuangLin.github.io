@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Houston, we have a problem.</copyright>
-    <lastBuildDate>Thu, 17 Aug 2023 22:04:52 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>/tags/design/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Figma</title>
+      <link>/tags/figma/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/figma/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTML&amp;CSS</title>
+      <link>/tags/htmlcss/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/htmlcss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>resume</title>
       <link>/tags/resume/</link>
@@ -24,26 +64,6 @@
       <pubDate>Tue, 15 Aug 2023 22:04:52 -0400</pubDate>
       
       <guid>/tags/docker/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>/tags/design/</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/design/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Figma</title>
-      <link>/tags/figma/</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/figma/</guid>
       <description></description>
       
     </item>
