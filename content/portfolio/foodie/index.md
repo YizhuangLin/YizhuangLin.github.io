@@ -6,6 +6,7 @@ summary: "Foodie makes your food ordering process enjoyable. Don't know what to 
 tags:
 - Figma
 - Design
+- Teamwork
 ---
 <img src="foodie-Logo.png" alt="Foodie!" width=400px style="display: block; margin-left: auto; margin-right: auto;">
 

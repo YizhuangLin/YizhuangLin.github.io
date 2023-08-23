@@ -6,6 +6,7 @@ summary: "It was a hackathon project to turn an employer's idea into a prototype
 tags:
 - Figma
 - Design
+- Teamwork
 ---
 <img src="Logo.png" alt="PitchJams" width=300px style="display: block; margin-left: auto; margin-right: auto;">
 

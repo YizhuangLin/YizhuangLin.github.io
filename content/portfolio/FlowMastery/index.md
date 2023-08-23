@@ -7,6 +7,7 @@ tags:
 - Figma
 - Design
 - HTML&CSS&JavaScript
+- Teamwork
 ---
 
 <img src="flowMastery-Logo.png" alt="flowMastery" width=400px style="display: block; margin-left: auto; margin-right: auto;">
