@@ -53,6 +53,10 @@ Using rounded edges on buttons and cards, along with matching color themes, make
 
 ---
 
-Group assignment by <u>[Jerome](https://hitori.rocks/)</u>, <u>[Thomas](https://www.linkedin.com/in/thomas-castillo-a13b67220/)</u> and me.
+Group assignment by 
+- {{< icon "link" >}}[Jerome](https://hitori.rocks/)
+- {{< icon "github" >}}[Thomas](https://www.linkedin.com/in/thomas-castillo-a13b67220/) 
+-  {{< icon "link" >}}[Leon(author) ](https://cestduleon.dev)
+
 
 
