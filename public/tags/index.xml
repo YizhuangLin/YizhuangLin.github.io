@@ -29,21 +29,11 @@
     </item>
     
     <item>
-      <title>HTML&amp;CSS</title>
-      <link>/tags/htmlcss/</link>
+      <title>HTML&amp;CSS&amp;JavaScript</title>
+      <link>/tags/htmlcssjavascript/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/htmlcss/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>/tags/javascript/</link>
-      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/javascript/</guid>
+      <guid>/tags/htmlcssjavascript/</guid>
       <description></description>
       
     </item>

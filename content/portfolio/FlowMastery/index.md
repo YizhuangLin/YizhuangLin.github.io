@@ -6,8 +6,7 @@ summary: "This is a website to help users to learn or work with Pomodoro Techniq
 tags:
 - Figma
 - Design
-- Javascript
-- HTML&CSS
+- HTML&CSS&JavaScript
 ---
 ![flowMastery!](flowMastery-Logo.png)
 
