@@ -9,6 +9,16 @@
     <copyright>Houston, we have a problem.</copyright>
     <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Design - Pitch Jams, A website to crowdfund your ideas</title>
+      <link>/portfolio/pitchjams/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/pitchjams/</guid>
+      <description>It was a hackathon project to turn an employer&amp;rsquo;s idea into a prototype web page in 2 days. Our 4-member student team won the first place in the program and $1000 in prize money.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/portfolio/pitchjams/featured-PitchJams.png" />
+    </item>
+    
+    <item>
       <title>Website - Flow Mstery, A website to help users with Pomodoro Technique</title>
       <link>/portfolio/flowmastery/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
@@ -26,6 +36,16 @@
       <guid>/portfolio/foodie/</guid>
       <description>Foodie makes your food ordering process enjoyable. Don&amp;rsquo;t know what to eat? Come and get a hint from our community curated recommendations and food matches!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/portfolio/foodie/featured-foodie-puzzle.png" />
+    </item>
+    
+    <item>
+      <title>Design - Shiba Inu Samurai, a App logo for Apple devices</title>
+      <link>/portfolio/shibainusamurai/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/shibainusamurai/</guid>
+      <description>An app icon inspired by Shiba Inu and Knight Rider</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/portfolio/shibainusamurai/featured-%20ShibainuSamural.png" />
     </item>
     
   </channel>

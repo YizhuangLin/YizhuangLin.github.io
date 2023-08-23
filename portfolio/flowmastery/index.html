@@ -100,7 +100,7 @@
     "keywords": ["Figma","Design","HTML\u0026CSS\u0026JavaScript"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "78"
+    "wordCount": "240"
   }]
   </script>
 
@@ -594,7 +594,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-08-22 00:00:00 &#43;0000 UTC">22 August 2023</time><span class="px-2 text-primary-500">&middot;</span><span>78 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2023-08-22 00:00:00 &#43;0000 UTC">22 August 2023</time><span class="px-2 text-primary-500">&middot;</span><span>240 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
     
     <span id="likes_portfolio/FlowMastery/index.md" title="likes">0</span> 
     
@@ -728,7 +728,93 @@
 
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
 
-    
+     <div
+      class="order-first sm:max-w-prose lg:ml-auto px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-10">
+
+         <details open class="mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#colour--font">Colour &amp; Font</a></li>
+    <li><a href="#design-style">Design style</a></li>
+    <li><a href="#desing-preview">Desing preview</a></li>
+    <li><a href="#heading"></a></li>
+    <li><a href="#website">Website</a></li>
+    <li><a href="#team-member">Team member</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#colour--font">Colour &amp; Font</a></li>
+    <li><a href="#design-style">Design style</a></li>
+    <li><a href="#desing-preview">Desing preview</a></li>
+    <li><a href="#heading"></a></li>
+    <li><a href="#website">Website</a></li>
+    <li><a href="#team-member">Team member</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+ 
+<script>
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = e.attr('id');
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+           
+            $(e).removeClass('active').siblings('ul').hide();
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+         
+          $toc.find('a').parent('li').find('ul').hide();
+        
+        onScroll();
+      });
+    }
+  })();
+</script>
+   </div>
+      </div>
+      
 
       <div class="min-w-0 min-h-0 max-w-fit">
 
@@ -736,34 +822,10 @@
 
 
         <div class="max-w-prose mb-20">
-          <p>
-
-
-
-
-  
-  
-    
-  
-  
-    <figure>
-      
-      <img
-        class="my-0 rounded-md"
-        srcset="
-        /portfolio/flowmastery/flowMastery-Logo_huba0a189903854bfcde4431556cb5f9bd_46124_330x0_resize_box_3.png 330w,
-        /portfolio/flowmastery/flowMastery-Logo_huba0a189903854bfcde4431556cb5f9bd_46124_660x0_resize_box_3.png 660w,
-        /portfolio/flowmastery/flowMastery-Logo_huba0a189903854bfcde4431556cb5f9bd_46124_1024x0_resize_box_3.png 1024w,
-        /portfolio/flowmastery/flowMastery-Logo_huba0a189903854bfcde4431556cb5f9bd_46124_1320x0_resize_box_3.png 2x"
-        src="/portfolio/flowmastery/flowMastery-Logo_huba0a189903854bfcde4431556cb5f9bd_46124_660x0_resize_box_3.png"
-        alt="flowMastery!"
-      />
-      
-      
-    </figure>
-  
-
-</p>
+          <img src="flowMastery-Logo.png" alt="flowMastery" width=400px style="display: block; margin-left: auto; margin-right: auto;">
+<blockquote>
+<p>The Pomodoro Technique is a time management method based on 25-minute stretches of focused work broken by five-minute breaks. Longer breaks, typically 15 to 30 minutes, are taken after four consecutive work intervals.</p>
+</blockquote>
 <p><a class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
   href="https://flowmastery.netlify.app"  target="_blank"  role="button">
   
@@ -775,11 +837,116 @@ LIVE
 CODE
 
 </a></p>
-<blockquote>
-<p>The Pomodoro Technique is a time management method based on 25-minute stretches of focused work broken by five-minute breaks. Longer breaks, typically 15 to 30 minutes, are taken after four consecutive work intervals.</p>
-</blockquote>
 <p>This website is designed to help users easily implement the Pomodoro Technique and improve their productivity and focus. It was a group project and my first complete website, for which I was responsible for designing the web pages and creating the landing page.</p>
+<div id="colour--font" class="anchor"></div>
+<h2 class="relative group">Colour &amp; Font 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#colour--font" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<p>The overall design style of the website is quiet, the main color is a <strong>calming blue</strong>, and the font choice is more relaxed <strong>fredoka.</strong></p>
+<div id="design-style" class="anchor"></div>
+<h2 class="relative group">Design style 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#design-style" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<p>In visual design, I incorporated the keyword &ldquo;<strong>Flow</strong>&rdquo; to craft a design that offers users a comfortable website browsing experience. To achieve this, I implemented the following design elements:</p>
+<ul>
+<li>Wavy patterns at headers, footers, and the bottom of windows.</li>
+<li>Uniformly rounded buttons.</li>
+<li>A dotted background around the clock area.</li>
+</ul>
+<div id="desing-preview" class="anchor"></div>
+<h2 class="relative group">Desing preview 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#desing-preview" aria-label="Anchor">#</a></span>        
+    
+</h2>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="700" height="700" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fuik2hAOX8okeGLnXrF62zj%2FFlowMastery%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D132-474%26viewport%3D2747%252C279%252C0.34%26t%3DKiUA0aI3eb5JJAle-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D90%253A1022%26mode%3Ddesign" allowfullscreen></iframe>
+
+  
+  
+  
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md"
+    style="background-color: #51A8DD"
+  >
+
+  <span
+    
+      class="ltr:pr-3 rtl:pl-3 flex items-center"
+      style="color: white"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Click anywhere</strong> in the preview window to interact with it. <strong>Click  <code>&lt;</code> <code>&gt;</code></strong> at the bottom to see all pages, <strong>Click the top right corner buttom</strong> to see it full screen.</span>
+</div>
+
+<div id="heading" class="anchor"></div>
+<h2 class="relative group"> 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#heading" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<div id="website" class="anchor"></div>
+<h2 class="relative group">Website 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#website" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<p>The final version of the site has changed a bit from the original design, due to time constraints some design elements were streamlined, and the overall design was modernized with bootstrap to make it more functional.</p>
+<a class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+  href="https://flowmastery.netlify.app"  target="_blank"  role="button">
+  
+Flow Mastery
+
+</a>
+<div id="team-member" class="anchor"></div>
+<h2 class="relative group">Team member 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#team-member" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<ul>
+<li><a href="www.linkedin.com/in/miguel-louis-139949238"  >
+    Miguel</a></li>
+<li><a href="https://www.linkedin.com/in/medelghali/"   target="_blank">
+    Mohammed</a></li>
+<li>Linxu</li>
+<li><a href="https://cestduleon.dev"   target="_blank">
+    Leon(author) </a></li>
+</ul>
+
         </div>
 
         
