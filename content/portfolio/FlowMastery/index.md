@@ -50,9 +50,9 @@ Flow Mastery
 {{< /button >}} 
 
 ## Team member
-- [Miguel](www.linkedin.com/in/miguel-louis-139949238) 
-- [Mohammed](https://www.linkedin.com/in/medelghali/)
+- {{< icon "linkedin" >}}[Miguel](www.linkedin.com/in/miguel-louis-139949238) 
+- {{< icon "linkedin" >}}[Mohammed](https://www.linkedin.com/in/medelghali/)
 - Linxu
-- [Leon(author) ](https://cestduleon.dev)
+- {{< icon "link" >}}[Leon(author) ](https://cestduleon.dev)
 
 

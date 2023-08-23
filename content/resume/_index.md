@@ -1,5 +1,5 @@
 ---
-title: "Yizhuang(Leon) Lin"
+title: "Resume"
 date: 2023-08-17T22:04:52-04:00
 draft: false
 tags:
@@ -30,13 +30,18 @@ Who am i?
 - **Team-based project implementation**
 - Office Skills: Microsoft Office Suite (Word, PowerPoint, and Excel)
 
+## Portfolio
+**Click here to view my portfolio:**
+
+{{< button  href="https://flowmastery.netlify.app" target="_blank" >}}
+Portfolio
+{{< /button >}}
+
 ## Education
 
 2023 - Now    Web Development & Internet Applications     Algonquin College, Ottawa
 
 2013 - 2017	Exhibition Planning and Management    Shanghai Lida University, Shanghai, China
-
-
 
 ## Life Map
 
@@ -93,9 +98,9 @@ Who am i?
 
  
 
-## Portfolio
 
-#### [Foodie](https://www.figma.com/file/8XLT012kk3b72NmlQ7FMc7/Foodie!?type=design&node-id=243%3A499&mode=design&t=3Z8MUCBdiLmP4kay-1)     08/2023
+
+<!-- #### [Foodie](https://www.figma.com/file/8XLT012kk3b72NmlQ7FMc7/Foodie!?type=design&node-id=243%3A499&mode=design&t=3Z8MUCBdiLmP4kay-1)     08/2023
 
 `Algonquin College`
 
@@ -143,7 +148,7 @@ I was responsible for creating the entire website's design utilizing Figma inclu
 
 This is a beginner static presentation website made in **HTML and CSS**, a non-official website of a Kendo club.
 
-
+ -->
 
 ## Who am I?
 

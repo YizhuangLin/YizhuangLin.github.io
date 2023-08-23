@@ -73,7 +73,7 @@ Using rounded edges on buttons and cards, along with matching color themes, make
 ---
 
 Group assignment by 
-- <u>[Celia](https://www.linkedin.com/in/thomas-castillo-a13b67220/)</u> 
-- <u>[Iris](https://github.com/Iriswang0916)</u> 
-- <u>[Jerome](https://hitori.rocks/)</u>
+- <u>{{< icon "github" >}}[Celia](https://www.linkedin.com/in/thomas-castillo-a13b67220/)</u> 
+- <u>{{< icon "github" >}}[Iris](https://github.com/Iriswang0916)</u> 
+- <u>{{< icon "link" >}}[Jerome](https://hitori.rocks/)</u>
 - <u>[Leon(author)](https://cestduleon.dev)</u> 
