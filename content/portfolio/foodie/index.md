@@ -1,6 +1,6 @@
 ---
 title: "Design - Foodie, a food delivery app"
-date: 2023-08-16
+date: 2023-08-11
 draft: false
 summary: "Foodie makes your food ordering process enjoyable. Don't know what to eat? Come and get a hint from our community curated recommendations and food matches!"
 tags:
@@ -8,6 +8,7 @@ tags:
 - Design
 - Teamwork
 ---
+{{< swatches "#f2be22" "#22a699" "#ffffff" >}}
 <img src="foodie-Logo.png" alt="Foodie!" width=400px style="display: block; margin-left: auto; margin-right: auto;">
 
 ## Summary
@@ -25,14 +26,14 @@ And here's what we're trying to accomplish: **Foodie makes your food ordering pr
 
 
 ### Colour scheme
+{{< swatches "#f2be22"  >}}<br>
+**Mustard Yellow( #F2BE22)**, our primary color. This attracts attention, especially to our logo and key information. 
 
-{{< swatches "#f2be22" "#22a699" "#fffff" >}}
+{{< swatches "#22a699" >}}<br>
+**Deep Green(#22A699)**, used as Secondary color. It's used for regular buttons, suggesting nature and tranquility.
 
-- **Mustard Yellow( #F2BE22)**, our primary color. This attracts attention, especially to our logo and key information. 
-
-- **Deep Green(#22A699)**, used as Secondary color. It's used for regular buttons, suggesting nature and tranquility.
-
-- To maintain clarity, the background is pure white.  
+{{< swatches  "#ffffff" >}}<br>
+To maintain clarity, the background is pure white.  
 
 ### Typography
 
@@ -44,7 +45,7 @@ And here's what we're trying to accomplish: **Foodie makes your food ordering pr
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="700" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FAXNTbxVFslLCRh1TjeZtL4%2FPart-2%253A-Design-System%3Fpage-id%3D106%253A55%26type%3Ddesign%26node-id%3D118-62%26viewport%3D448%252C293%252C0.59%26t%3DL7t1u9efnDpQgLeJ-1%26scaling%3Dscale-down-width%26mode%3Ddesign" allowfullscreen></iframe>
 {{< alert cardColor="#22A699" iconColor="white" textColor="" >}}
-**Click anywhere** in the preview window to interact with it. **Click  `<` `>`** at the bottom to see all pages, **Click the top right corner buttom** to see it full screen.
+**Click anywhere** in the preview window to interact with it. **Click  `<` `>`** at the bottom to see all pages, **Click the top right corner button** to see it full screen.
 {{< /alert >}}
 
 Using rounded edges on buttons and cards, along with matching color themes, makes things look neat and user-friendly.
