@@ -1,11 +1,11 @@
 ---
-title: "Website - Flow Mstery, A website to help users with Pomodoro Technique"
+title: "Flow Mstery, a website to help users with Pomodoro Technique"
 date: 2023-05-24
 draft: false
 summary: "This is a website to help users to learn or work with Pomodoro Technique. Includes a complete visual design and a complete web project realized in Javascript. "
 tags:
-- Figma
 - Design
+- Figma
 - HTML&CSS&JavaScript
 - Teamwork
 ---

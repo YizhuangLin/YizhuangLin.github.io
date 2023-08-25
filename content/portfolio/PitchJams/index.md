@@ -1,11 +1,11 @@
 ---
-title: "Design - Pitch Jams, A website to crowdfund your ideas"
+title: "Pitch Jams, a website to crowdfund your ideas"
 date: 2023-07-10
 draft: false
 summary: "It was a hackathon project to turn an employer's idea into a prototype web page in 2 days. Our 4-member student team won the first place in the program and $1000 in prize money."
 tags:
-- Figma
 - Design
+- Figma
 - Teamwork
 ---
 
