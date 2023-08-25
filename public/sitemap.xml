@@ -45,9 +45,12 @@
     
   
     
-  
-    
-  
+      <url>
+            <loc>/playlist/</loc>
+            <lastmod>2023-08-15T17:33:34-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -57,10 +60,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-  
     
   
     
@@ -107,6 +106,8 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
     
   
     
