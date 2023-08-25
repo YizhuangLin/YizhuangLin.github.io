@@ -39,9 +39,15 @@ Portfolio
 
 ## Education
 
-2023 - Now    Web Development & Internet Applications     Algonquin College, Ottawa
+### Algonquin College ###
+  **Web Development & Internet Applications**<br>
+  **Ottawa, Canada**🇨🇦<br>
+  2023 - Now    
 
-2013 - 2017	Exhibition Planning and Management    Shanghai Lida University, Shanghai, China
+### Shanghai Lida University ###
+  **Exhibition Planning and Management**<br>
+  **Shanghai, China**🇨🇳<br>
+  2013 - 2017    
 
 ## Life Map
 
