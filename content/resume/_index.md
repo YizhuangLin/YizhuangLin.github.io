@@ -33,7 +33,7 @@ Who am i?
 ## Portfolio
 **Click here to view my portfolio:**
 
-{{< button  href="https://flowmastery.netlify.app" target="_blank" >}}
+{{< button  href="/portfolio" target="_blank" >}}
 Portfolio
 {{< /button >}}
 
