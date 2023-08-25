@@ -11,39 +11,44 @@
 # ordered by weight from lowest to highest.
 #导航栏
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 30
+name = "Blog"
+pageRef = "posts"
+weight = 30
 
 [[main]]
-  name = "Portfolio"
-  pageRef = "portfolio"
-  weight = 10 
+name = "Portfolio"
+pageRef = "portfolio"
+weight = 10
 
 [[main]]
-  name = "Resume"
-  pageRef = "resume"
-  weight = 20
+name = "Resume"
+pageRef = "resume"
+weight = 20
 
 [[main]]
-  pre = "github"
-  url = "https://github.com/YizhuangLin"
-  weight = 60
+name = "Playlist"
+pageRef = "playlist"
+weight = 50
+
+[[main]]
+pre = "github"
+url = "https://github.com/YizhuangLin"
+weight = 60
 
 #[[main]]
-  #name = "About"
-  #pageRef = "about"
-  #weight = 30
+#name = "About"
+#pageRef = "about"
+#weight = 30
 
 #[[main]]
-  #name = "Parent"
-  #weight = 10
+#name = "Parent"
+#weight = 10
 #导航栏/子级菜单
 #[[main]]
-  #name = "example sub-menu 1"
-  #parent = "Parent"
-  #pageRef = "posts"
-  #weight = 10
+#name = "example sub-menu 1"
+#parent = "Parent"
+#pageRef = "posts"
+#weight = 10
 
 #[[main]]
 #  name = "example sub-menu 2"
@@ -73,12 +78,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+[[footer]]
+name = "Tags"
+pageRef = "tags"
+weight = 10
 
- #[[footer]]
-   #name = "Categories"
-   #pageRef = "categories"
-   #weight = 20
+#[[footer]]
+#name = "Categories"
+#pageRef = "categories"
+#weight = 20
