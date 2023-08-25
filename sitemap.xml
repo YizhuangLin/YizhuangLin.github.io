@@ -37,43 +37,8 @@
   
     
       <url>
-            <loc>/portfolio/pitchjams/</loc>
-            <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/portfolio/flowmastery/</loc>
-            <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
             <loc>/resume/</loc>
             <lastmod>2023-08-17T22:04:52-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/portfolio/foodie/</loc>
-            <lastmod>2023-08-16T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -99,9 +64,44 @@
     
   
     
+  
+    
+      <url>
+            <loc>/portfolio/foodie/</loc>
+            <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>/portfolio/pitchjams/</loc>
+            <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/portfolio/flowmastery/</loc>
+            <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
       <url>
             <loc>/portfolio/shibainusamurai/</loc>
-            <lastmod>2023-05-13T00:00:00+00:00</lastmod>
+            <lastmod>2023-04-30T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
