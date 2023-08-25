@@ -66,14 +66,14 @@
     
   
     
+  
+    
       <url>
             <loc>/portfolio/foodie/</loc>
             <lastmod>2023-08-11T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
@@ -88,8 +88,6 @@
     
   
     
-  
-    
       <url>
             <loc>/portfolio/flowmastery/</loc>
             <lastmod>2023-05-24T00:00:00+00:00</lastmod>
@@ -99,14 +97,16 @@
     
   
     
+  
+    
+  
+    
       <url>
             <loc>/portfolio/shibainusamurai/</loc>
             <lastmod>2023-04-30T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
