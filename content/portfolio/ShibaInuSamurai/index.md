@@ -1,6 +1,6 @@
 ---
 title: "Design - Shiba Inu Samurai, a App logo for Apple devices"
-date: 2023-05-13
+date: 2023-04-30
 draft: false
 summary: "An app icon inspired by Shiba Inu and Knight Rider"
 tags:
