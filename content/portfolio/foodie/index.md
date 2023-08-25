@@ -1,11 +1,11 @@
 ---
-title: "Design - Foodie, a food delivery app"
+title: "Foodie, a food delivery app"
 date: 2023-08-11
 draft: false
 summary: "Foodie makes your food ordering process enjoyable. Don't know what to eat? Come and get a hint from our community curated recommendations and food matches!"
 tags:
-- Figma
 - Design
+- Figma
 - Teamwork
 ---
 {{< swatches "#f2be22" "#22a699" "#ffffff" >}}
