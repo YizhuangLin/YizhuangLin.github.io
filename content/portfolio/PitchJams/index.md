@@ -25,7 +25,7 @@ Pit Jams is **a website for ideaters to upload video pitches and share with comm
 
 ### Preview interface
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="660" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiPlSWlebbBTFRwGwHxY2TD%2FPitch-Jams%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D15-5%26viewport%3D1315%252C403%252C0.52%26t%3DLiU5QGsT31KA96oj-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D15%253A5%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="655" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiPlSWlebbBTFRwGwHxY2TD%2FPitch-Jams%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D15-5%26viewport%3D1315%252C403%252C0.52%26t%3DLiU5QGsT31KA96oj-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D15%253A5%26mode%3Ddesign" allowfullscreen></iframe>
 {{< alert cardColor="#986DB2" iconColor="white" textColor="" >}}
 **Click anywhere** in the preview window to interact with it. **Click  `<` `>`** at the bottom to see all pages, **Click the top right corner button** to see it full screen.
 {{< /alert >}}
