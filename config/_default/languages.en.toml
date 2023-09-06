@@ -11,7 +11,7 @@ dateFormat = "2 January 2006"
 logo = "img/logo.png"
 # secondaryLogo = "img/secondary-logo.png"
 description = "Leon's personal website"
-copyright = "Houston, we have a problem."
+copyright = "How's your thirst for adventure, Captain?"
 
 [author]
 name = "Leon Lin"
