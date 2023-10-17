@@ -1,6 +1,6 @@
 ---
 title: "Gallery"
-date: 2023-08-15T17:33:34-04:00
+date: 2023-08-16T17:33:34-04:00
 draft: false
 # slug: your-url-slug
 # tags:
