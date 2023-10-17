@@ -26,8 +26,8 @@ pageRef = "resume"
 weight = 20
 
 [[main]]
-name = "Playlist"
-pageRef = "playlist"
+name = "Gallery"
+pageRef = "gallery"
 weight = 50
 
 [[main]]
