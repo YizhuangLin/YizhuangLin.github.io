@@ -12,6 +12,9 @@ draft: false
 # summary: "Here is summary"
 ---
 
+{{< alert cardColor="" iconColor="" textColor="" >}}
+Because of the large size of the images, the loading speed may be slow, I am trying to solve this problem.
+{{< /alert >}}
 {{< lead >}}
 Welcome to my Gallery!
 {{< /lead >}}
