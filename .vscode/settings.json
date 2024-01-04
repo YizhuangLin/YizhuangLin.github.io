@@ -4,5 +4,6 @@
   "workbench.colorTheme": "Community Material Theme Darker",
   "window.autoDetectColorScheme": true,
   "workbench.preferredDarkColorTheme": "Community Material Theme Darker",
-  "workbench.preferredLightColorTheme": "GitHub Light"
+  "workbench.preferredLightColorTheme": "GitHub Light",
+  "liveServer.settings.port": 5501
 }
