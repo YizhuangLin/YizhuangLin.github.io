@@ -9,12 +9,12 @@
     <copyright>How&#39;s your thirst for adventure, Captain?</copyright>
     <lastBuildDate>Tue, 15 Aug 2023 17:33:34 -0400</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BOOKMARK, the landing page of a excesion </title>
+      <title>BOOKMARK, the landing page of a extension </title>
       <link>/portfolio/bookmark_landingpage/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/bookmark_landingpage/</guid>
-      <description>This is a landing page with a plugin called bookmark. Page implementation with Tailwind</description>
+      <description>This is a landing page with a extensions called bookmark. Page implementation with Tailwind</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/portfolio/bookmark_landingpage/featured-bookmark-puzzle.png" />
     </item>
     
