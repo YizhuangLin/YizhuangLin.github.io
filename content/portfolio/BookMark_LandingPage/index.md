@@ -10,7 +10,7 @@ tags:
 ---
 
 {{< swatches "#5267DF" "#FA5959" "#242A45" >}}
-<img src="bookmark.png" alt="flowMastery" width=400px style="display: block; margin-left: auto; margin-right: auto;">
+<img src="bookmark.png" alt="bookmark" width=400px style="display: block; margin-left: auto; margin-right: auto;">
 
 {{< button  href="https://leon-bookmark-landing-page.netlify.app/" target="_blank" >}}
 LIVE
