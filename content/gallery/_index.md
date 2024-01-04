@@ -12,8 +12,8 @@ draft: false
 # summary: "Here is summary"
 ---
 
-{{< alert cardColor="" iconColor="" textColor="" >}}
-Because of the large size of the images, the loading speed may be slow, I am trying to solve this problem.
+{{< alert cardColor="#51A8DD" iconColor="white" textColor="" >}}
+**Click anywhere** in the preview window to interact with it. **Click `<` `>`** at the bottom to see all pages, **Click the top right corner button** to see it full screen.
 {{< /alert >}}
 {{< lead >}}
 Welcome to my Gallery!
