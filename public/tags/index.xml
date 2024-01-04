@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>How&#39;s your thirst for adventure, Captain?</copyright>
-    <lastBuildDate>Wed, 23 Aug 2023 11:42:34 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>front-end</title>
+      <link>/tags/front-end/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/front-end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTML&amp;CSS&amp;JavaScript</title>
+      <link>/tags/htmlcssjavascript/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/htmlcssjavascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tailwind</title>
+      <link>/tags/tailwind/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tailwind/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>English</title>
       <link>/tags/english/</link>
@@ -54,16 +84,6 @@
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/teamwork/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>HTML&amp;CSS&amp;JavaScript</title>
-      <link>/tags/htmlcssjavascript/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/htmlcssjavascript/</guid>
       <description></description>
       
     </item>
