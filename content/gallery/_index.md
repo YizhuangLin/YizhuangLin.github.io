@@ -12,9 +12,10 @@ draft: false
 # summary: "Here is summary"
 ---
 
-{{< alert cardColor="#51A8DD" iconColor="white" textColor="" >}}
-**Click anywhere** in the preview window to interact with it. **Click `<` `>`** at the bottom to see all pages, **Click the top right corner button** to see it full screen.
-{{< /alert >}}
+<!-- {{< alert cardColor="#51A8DD" iconColor="white" textColor="" >}}
+**Loading speed is slow due to large image files**
+{{< /alert >}} -->
+
 {{< lead >}}
 Welcome to my Gallery!
 {{< /lead >}}

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resume on cestduLeon/</title>
-    <link>/resume/</link>
+    <link>//localhost:1313/resume/</link>
     <description>Recent content in Resume on cestduLeon/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>How&#39;s your thirst for adventure, Captain?</copyright>
-    <lastBuildDate>Thu, 17 Aug 2023 22:04:52 -0400</lastBuildDate><atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 22:04:52 -0400</lastBuildDate><atom:link href="//localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

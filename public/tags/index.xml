@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on cestduLeon/</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on cestduLeon/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>How&#39;s your thirst for adventure, Captain?</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>front-end</title>
-      <link>/tags/front-end/</link>
+      <title>Front-End</title>
+      <link>//localhost:1313/tags/front-end/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/front-end/</guid>
+      <guid>//localhost:1313/tags/front-end/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>HTML&amp;CSS&amp;JavaScript</title>
-      <link>/tags/htmlcssjavascript/</link>
+      <link>//localhost:1313/tags/htmlcssjavascript/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/htmlcssjavascript/</guid>
+      <guid>//localhost:1313/tags/htmlcssjavascript/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>tailwind</title>
-      <link>/tags/tailwind/</link>
+      <title>Tailwind</title>
+      <link>//localhost:1313/tags/tailwind/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tailwind/</guid>
+      <guid>//localhost:1313/tags/tailwind/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>English</title>
-      <link>/tags/english/</link>
+      <link>//localhost:1313/tags/english/</link>
       <pubDate>Wed, 23 Aug 2023 11:42:34 -0400</pubDate>
       
-      <guid>/tags/english/</guid>
+      <guid>//localhost:1313/tags/english/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>resume</title>
-      <link>/tags/resume/</link>
+      <title>Resume</title>
+      <link>//localhost:1313/tags/resume/</link>
       <pubDate>Thu, 17 Aug 2023 22:04:52 -0400</pubDate>
       
-      <guid>/tags/resume/</guid>
+      <guid>//localhost:1313/tags/resume/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Design</title>
-      <link>/tags/design/</link>
+      <link>//localhost:1313/tags/design/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/design/</guid>
+      <guid>//localhost:1313/tags/design/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Figma</title>
-      <link>/tags/figma/</link>
+      <link>//localhost:1313/tags/figma/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/figma/</guid>
+      <guid>//localhost:1313/tags/figma/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Teamwork</title>
-      <link>/tags/teamwork/</link>
+      <link>//localhost:1313/tags/teamwork/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/teamwork/</guid>
+      <guid>//localhost:1313/tags/teamwork/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Illustrator</title>
-      <link>/tags/illustrator/</link>
+      <link>//localhost:1313/tags/illustrator/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/illustrator/</guid>
+      <guid>//localhost:1313/tags/illustrator/</guid>
       <description></description>
       
     </item>

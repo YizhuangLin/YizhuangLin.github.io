@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML&amp;CSS&amp;JavaScript on cestduLeon/</title>
-    <link>/tags/htmlcssjavascript/</link>
+    <link>//localhost:1313/tags/htmlcssjavascript/</link>
     <description>Recent content in HTML&amp;CSS&amp;JavaScript on cestduLeon/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>How&#39;s your thirst for adventure, Captain?</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/htmlcssjavascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/htmlcssjavascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BOOKMARK, the landing page of a extension </title>
-      <link>/portfolio/bookmark_landingpage/</link>
+      <link>//localhost:1313/portfolio/bookmark_landingpage/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/bookmark_landingpage/</guid>
+      <guid>//localhost:1313/portfolio/bookmark_landingpage/</guid>
       <description>This is a landing page with a extensions called bookmark. Page implementation with Tailwind</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/portfolio/bookmark_landingpage/featured-bookmark-puzzle.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/portfolio/bookmark_landingpage/featured-bookmark-puzzle.png" />
     </item>
     
     <item>
       <title>Flow Mstery, a website to help users with Pomodoro Technique</title>
-      <link>/portfolio/flowmastery/</link>
+      <link>//localhost:1313/portfolio/flowmastery/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/flowmastery/</guid>
+      <guid>//localhost:1313/portfolio/flowmastery/</guid>
       <description>This is a website to help users to learn or work with Pomodoro Technique. Includes a complete visual design and a complete web project realized in Javascript.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/portfolio/flowmastery/featured-flowmastery-puzzle.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/portfolio/flowmastery/featured-flowmastery-puzzle.png" />
     </item>
     
   </channel>
