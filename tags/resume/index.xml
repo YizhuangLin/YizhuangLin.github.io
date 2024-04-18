@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resume on cestduLeon/</title>
-    <link>/tags/resume/</link>
-    <description>Recent content in resume on cestduLeon/</description>
+    <title>Resume on cestduLeon/</title>
+    <link>//localhost:1313/tags/resume/</link>
+    <description>Recent content in Resume on cestduLeon/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>How&#39;s your thirst for adventure, Captain?</copyright>
-    <lastBuildDate>Thu, 17 Aug 2023 22:04:52 -0400</lastBuildDate><atom:link href="/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 22:04:52 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>/resume/</link>
+      <link>//localhost:1313/resume/</link>
       <pubDate>Thu, 17 Aug 2023 22:04:52 -0400</pubDate>
       
-      <guid>/resume/</guid>
+      <guid>//localhost:1313/resume/</guid>
       <description>Here is my resume</description>
       
     </item>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on cestduLeon/</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on cestduLeon/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>How&#39;s your thirst for adventure, Captain?</copyright>
-    <lastBuildDate>Wed, 23 Aug 2023 11:42:34 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 11:42:34 -0400</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World</title>
-      <link>/posts/firstpost/</link>
+      <link>//localhost:1313/posts/firstpost/</link>
       <pubDate>Wed, 23 Aug 2023 11:42:34 -0400</pubDate>
       
-      <guid>/posts/firstpost/</guid>
+      <guid>//localhost:1313/posts/firstpost/</guid>
       <description>Bonjour</description>
       
     </item>
