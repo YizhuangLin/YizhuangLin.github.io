@@ -26,11 +26,6 @@ pageRef = "resume"
 weight = 20
 
 [[main]]
-name = "Gallery"
-pageRef = "gallery"
-weight = 50
-
-[[main]]
 pre = "github"
 url = "https://github.com/YizhuangLin"
 weight = 60
