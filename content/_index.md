@@ -1,6 +1,6 @@
 ---
 title: "Ca, cest du Léon"
-date: 2011/1/1
+date: 2011-01-01
 draft: false
 ---
 {{< lead >}}
