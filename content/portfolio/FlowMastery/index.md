@@ -1,12 +1,14 @@
 ---
-title: "Flow Mstery, a website to help users with Pomodoro Technique"
+title: "Flow Mastery, a website to help users with Pomodoro Technique"
 date: 2023-05-24
 draft: false
 summary: "This is a website to help users to learn or work with Pomodoro Technique. Includes a complete visual design and a complete web project realized in Javascript. "
 tags:
 - Design
 - Figma
-- HTML&CSS&JavaScript
+- HTML
+- CSS
+- JavaScript
 - Teamwork
 ---
 {{< swatches "#3064E8" "#2EA9DF" "#00D7CE" >}}
@@ -34,7 +36,7 @@ In visual design, I incorporated the keyword "**Flow**" to craft a design that o
 - Uniformly rounded buttons.
 - A dotted background around the clock area.
 
-## Desing preview
+## Design preview
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="655" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fuik2hAOX8okeGLnXrF62zj%2FFlowMastery%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D132-474%26viewport%3D2747%252C279%252C0.34%26t%3DKiUA0aI3eb5JJAle-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D90%253A1022%26mode%3Ddesign" allowfullscreen></iframe>
 {{< alert cardColor="#51A8DD" iconColor="white" textColor="" >}}

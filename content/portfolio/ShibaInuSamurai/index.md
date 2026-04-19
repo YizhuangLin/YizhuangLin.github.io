@@ -11,14 +11,14 @@ tags:
 ## itunes
 >- 512×512
 >- Corner Radius 90px
->- Full colur, High level of detail
+>- Full colour, High level of detail
 
 <img src="512px-itunes-icon@4x.png" alt="itunes" width=300px>
 
 ## iPad
 >- 144x144
 >- Corner Radius 24px
->- Full colur, Medium level of detail
+>- Full colour, Medium level of detail
 
 <img src="Artboard 13@4x.png" alt="itunes" width=200px>
 

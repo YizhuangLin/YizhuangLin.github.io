@@ -19,7 +19,7 @@ And here's what we're trying to accomplish: **Foodie makes your food ordering pr
 ### Preview interface
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="655" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F8XLT012kk3b72NmlQ7FMc7%2FFoodie!%3Fpage-id%3D149%253A15%26type%3Ddesign%26node-id%3D194-447%26viewport%3D592%252C1014%252C0.24%26t%3DM4GsXysxyrWDyRuh-1%26scaling%3Dcontain%26starting-point-node-id%3D194%253A447%26mode%3Ddesign" allowfullscreen></iframe>
 {{< alert cardColor="#22A699" iconColor="white" textColor="" >}}
-**Click anywhere** in the preview window to interact with it. **Click  `<` `>`** at the bottom to see all pages, **Click the top right corner buttom** to see it full screen.
+**Click anywhere** in the preview window to interact with it. **Click  `<` `>`** at the bottom to see all pages, **Click the top right corner button** to see it full screen.
 {{< /alert >}}
 
 ## Design system

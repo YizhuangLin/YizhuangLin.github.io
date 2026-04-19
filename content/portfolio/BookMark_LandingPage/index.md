@@ -1,12 +1,14 @@
 ---
-title: "BOOKMARK, the landing page of a extension "
+title: "BOOKMARK, the landing page of an extension"
 date: 2024-01-03
 draft: false
 summary: "This is a landing page with a extensions called bookmark. Page implementation with Tailwind"
 tags:
-  - tailwind
-  - front-end
-  - HTML&CSS&JavaScript
+  - Tailwind
+  - Frontend
+  - HTML
+  - CSS
+  - JavaScript
 ---
 
 {{< swatches "#5267DF" "#FA5959" "#242A45" >}}
