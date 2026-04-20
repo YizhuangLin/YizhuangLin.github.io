@@ -15,9 +15,9 @@ logo = "img/logo.png"
 description = "Leon's personal website"
 copyright = "How's your thirst for adventure, Captain?"
 
-[author]
+[params.author]
 name = "Leon Lin"
-image = "/img/avatar-2.png"
+image = "img/avatar-2.png"
 headline = "Ca, cest du Léon"
 bio = "Web Developer👨🏻‍💻 / Kendo 1-Dan⛩️ / FPS Gamer🎮|"
 links = [
